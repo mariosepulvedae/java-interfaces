@@ -1,10 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
-import java.util.Date;
 import java.awt.event.*;
 import java.io.File;
-import java.io.FileWriter;
 
 public class Frame extends JFrame implements ActionListener{
 
